@@ -1,3 +1,5 @@
+Awesome papers in the field of self-supervised learning
+
 # contrastive learning
 
 ## Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning
