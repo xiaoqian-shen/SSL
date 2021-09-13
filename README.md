@@ -1,4 +1,4 @@
-Awesome papers in the field of self-supervised learning
+# Awesome papers in the field of self-supervised learning
 
 # contrastive learning
 
